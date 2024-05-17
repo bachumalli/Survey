@@ -1,0 +1,35 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_release_managed_ref
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_UIApplicationMain
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_log
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC9Qualtrics20InitializationResult
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC9Qualtrics9Qualtrics
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC9Qualtrics19QualtricsProperties
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC9Qualtrics29QualtricsSurveyViewController
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+ObjectiveCClass=OBJC_CLASS_$__TtC9Qualtrics21QualtricsWebviewTheme
+	/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

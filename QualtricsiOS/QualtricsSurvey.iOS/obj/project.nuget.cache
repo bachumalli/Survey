@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4BiET5mXherh2auaVSsmryG/zxtzEsE7CeJJH4Bct9ocEi5TiDgB4PPHcYYx2MHcOOc0Cx38XLmLnrlqhxhuA==",
+  "success": true,
+  "projectFilePath": "/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/QualtricsSurvey.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/084121/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/084121/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

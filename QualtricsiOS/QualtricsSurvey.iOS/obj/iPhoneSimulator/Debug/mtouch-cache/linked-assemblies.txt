@@ -1,0 +1,6 @@
+RemoveDynamicRegistrar:false
+/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/bin/iPhoneSimulator/Debug/QualtricsSurvey.iOS.app:/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/QualtricsSurvey.iOS.exe
+/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/bin/iPhoneSimulator/Debug/QualtricsSurvey.iOS.app:/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/bin/iPhoneSimulator/Debug/QualtricsSurvey.iOS.app:/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/bin/iPhoneSimulator/Debug/QualtricsSurvey.iOS.app:/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/bin/iPhoneSimulator/Debug/QualtricsSurvey.iOS.app:/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/NativeLibrary.dll

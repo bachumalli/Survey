@@ -1,0 +1,11 @@
+/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/bin/iPhoneSimulator/Debug/QualtricsSurvey.iOS.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/../../64bits/iOS/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/16.4.0.23/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/bin/Debug/NativeLibrary.dll

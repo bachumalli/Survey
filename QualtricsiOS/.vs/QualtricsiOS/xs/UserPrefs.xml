@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3F664FD1-76B7-42F9-A136-2BDB7E5808A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QualtricsSurvey.iOS/Info.plist">
+    <Files>
+      <File FileName="QualtricsSurvey.iOS/AppDelegate.cs" />
+      <File FileName="QualtricsSurvey.iOS/Info.plist" />
+      <File FileName="Qualtrics.xcframework/ApiDefinition.cs" />
+      <File FileName="Qualtrics.xcframework/Structs.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
+      <File FileName="QualtricsSurvey.iOS/Entitlements.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QualtricsiOS" expanded="True">
+            <Node name="QualtricsSurvey.iOS" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QualtricsSurvey.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008120-001C31690A10201E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/AppDelegate.cs" relfile="QualtricsSurvey.iOS/AppDelegate.cs" line="48" column="1" />
+      <Breakpoint file="/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/AppDelegate.cs" relfile="QualtricsSurvey.iOS/AppDelegate.cs" line="17" column="1" />
+      <Breakpoint file="/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/AppDelegate.cs" relfile="QualtricsSurvey.iOS/AppDelegate.cs" line="30" column="1" />
+      <Breakpoint file="/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/AppDelegate.cs" relfile="QualtricsSurvey.iOS/AppDelegate.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/QualtricsSurvey.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/Qualtrics.xcframework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/Qualtrics.xcframework.csproj",
+        "projectName": "NativeLibrary",
+        "projectPath": "/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/Qualtrics.xcframework.csproj",
+        "packagesPath": "/Users/084121/.nuget/packages/",
+        "outputPath": "/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/084121/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      }
+    },
+    "/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/QualtricsSurvey.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/QualtricsSurvey.iOS.csproj",
+        "projectName": "QualtricsSurvey.iOS",
+        "projectPath": "/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/QualtricsSurvey.iOS.csproj",
+        "packagesPath": "/Users/084121/.nuget/packages/",
+        "outputPath": "/Users/084121/Projects/QualtricsiOS/QualtricsSurvey.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/084121/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/Qualtrics.xcframework.csproj": {
+                "projectPath": "/Users/084121/Projects/QualtricsiOS/Qualtrics.xcframework/Qualtrics.xcframework.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

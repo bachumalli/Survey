@@ -1,0 +1,8 @@
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/bin/Debug/NativeLibrary.dll
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/bin/Debug/NativeLibrary.pdb
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/obj/Debug/_ProcessedContentPath.items
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/obj/Debug/QualtricsiOS.csproj.CoreCompileInputs.cache
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/obj/Debug/NativeLibrary.dll
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/obj/Debug/NativeLibrary.pdb
+/Users/084121/Projects/QualtricsiOS/QualtricsiOS/obj/Debug/QualtricsiOS.csproj.AssemblyReference.cache
